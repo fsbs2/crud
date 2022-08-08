@@ -1,1 +1,1 @@
-Loyane Grooner - CRUD Angunlar + spring
+Loyane Grooner - CRUD Angular + spring
